@@ -28,3 +28,14 @@ return res.json({
     sit
 });
 })
+
+app.post("/users", (req, res)=> {
+
+    var {name, email} = req.body;
+
+
+    return res.json({
+        name: name,
+        email: email
+    });
+})
