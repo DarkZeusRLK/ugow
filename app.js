@@ -23,8 +23,8 @@ const {sit} = req.query;
 
 return res.json({
     id,
-    name: "matheus", 
-    email: "matheusvital@gmail.com",
+    name: "joao", 
+    email: "fernandesjoaopedro622@gmail.com",
     sit
 });
 })

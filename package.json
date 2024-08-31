@@ -1,12 +1,12 @@
 {
-  "name": "zere",
+  "name": "jp",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
      "dev": "nodemon app.js"
   },
-  "author": "zere",
+  "author": "jp",
   "license": "MIT",
   "description": "",
   "dependencies": {
